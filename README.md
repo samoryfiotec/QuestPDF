@@ -1,7 +1,7 @@
 # QuestPDF
 
 [![NuGet](https://img.shields.io/nuget/v/QuestPDF.svg)](https://www.nuget.org/packages/QuestPDF)
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+[![License: Community MIT and Professional](https://img.shields.io/badge/License-Community%20MIT%20and%20professional-blue.svg)](LICENSE)
 [![.NET](https://img.shields.io/badge/.NET-8.0-blue.svg)](https://dotnet.microsoft.com/)
 
 QuestPDF é uma biblioteca open-source para geração de documentos PDF de alta qualidade em aplicações .NET. Ela permite criar layouts complexos de forma declarativa, utilizando C# moderno e integração total com .NET 8.
@@ -95,4 +95,4 @@ Contribuições são bem-vindas! Consulte o [Guia de Contribuição](CONTRIBUTIN
 
 ## Licença
 
-Distribuído sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais informações.
+Distribuído sob a licença Communit MIT and Professional. Veja o arquivo [LICENSE](LICENSE) para mais informações.
