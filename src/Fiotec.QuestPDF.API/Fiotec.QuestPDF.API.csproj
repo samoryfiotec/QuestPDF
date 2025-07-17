@@ -8,7 +8,13 @@
 
   <ItemGroup>
     <PackageReference Include="Microsoft.AspNetCore.OpenApi" Version="8.0.18" />
+    <PackageReference Include="QuestPDF" Version="2025.7.0" />
     <PackageReference Include="Swashbuckle.AspNetCore" Version="6.6.2" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Fiotec.QuestPDF.Application\Fiotec.QuestPDF.Application.csproj" />
+    <ProjectReference Include="..\Fiotec.QuestPDF.Infrastructure\Fiotec.QuestPDF.Infrastructure.csproj" />
   </ItemGroup>
 
 </Project>

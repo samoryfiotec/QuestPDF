@@ -7,7 +7,12 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="QuestPDF\" />
+    <PackageReference Include="QuestPDF" Version="2025.7.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Fiotec.QuestPDF.Application\Fiotec.QuestPDF.Application.csproj" />
+    <ProjectReference Include="..\Fiotec.QuestPDF.Domain\Fiotec.QuestPDF.Domain.csproj" />
   </ItemGroup>
 
 </Project>
