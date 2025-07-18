@@ -86,7 +86,7 @@ document.GeneratePdf("fatura.pdf");
 
 ## Documentação
 
-- [Documentação Oficial](https://www.questpdf.com/documentation/)
+- [Documentação Oficial](https://www.questpdf.com/quick-start.html)
 - [Exemplos de Uso](https://www.questpdf.com/gallery/)
 - [Repositório no GitHub](https://github.com/QuestPDF/QuestPDF)
 
